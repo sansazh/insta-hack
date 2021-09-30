@@ -1,0 +1,7 @@
+pgk update & pkg upgrade -y
+pkg install git
+pkg install python
+git clone https://github.com/sansazh/insta-hack/new/main
+cd insta-hack
+ls
+cd RAMED.py
